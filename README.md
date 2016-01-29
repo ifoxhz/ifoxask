@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Revel
 
 ## Getting Started
@@ -73,3 +74,6 @@ test
 We encourage you to contribute to Revel! Please check out the [Contributing to Revel
 guide](https://github.com/revel/revel/blob/master/CONTRIBUTING.md) for guidelines about how
 to proceed. [Join us](https://groups.google.com/forum/#!forum/revel-framework)!
+=======
+# ifoxask
+>>>>>>> 2f088376020ad7b494e99c8b8afadbf87b4e8231
