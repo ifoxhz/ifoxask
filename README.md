@@ -1,25 +1,25 @@
-<<<<<<< HEAD
-# Welcome to Revel
+
+# Welcome to iFoxAsk
 
 ## Getting Started
 
-A high-productivity web framework for the [Go language](http://www.golang.org/).
+iFoxAsk website code
 
 ### Start the web server:
 
-    revel run myapp
+    revel run ifoxask
 
    Run with <tt>--help</tt> for options.
 
 ### Go to http://localhost:9000/ and you'll see:
 
-"It works"
+ifoxask website
 
 ### Description of Contents
 
 The default directory structure of a generated Revel application:
 
-    myapp               App root
+    ifoxask               App root
       app               App sources
         controllers     App controllers
           init.go       Interceptor registration
@@ -76,4 +76,3 @@ guide](https://github.com/revel/revel/blob/master/CONTRIBUTING.md) for guideline
 to proceed. [Join us](https://groups.google.com/forum/#!forum/revel-framework)!
 =======
 # ifoxask
->>>>>>> 2f088376020ad7b494e99c8b8afadbf87b4e8231
